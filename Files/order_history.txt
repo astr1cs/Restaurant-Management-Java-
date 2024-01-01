@@ -1,0 +1,3 @@
+2023-12-26 23:11:00 | Meraz | $3180.00 | Credits/Debits Payment
+2023-12-26 23:19:01 | sdfs | $12600.00 | Credits/Debits Payment
+2024-01-01 15:15:34 | asd | $1400.00 | Credits/Debits Payment
